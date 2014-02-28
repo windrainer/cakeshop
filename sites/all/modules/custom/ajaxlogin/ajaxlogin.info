@@ -1,6 +1,0 @@
-name=Ajax Login
-description = provide a modal window for user login or register, increase user experience
-package=Custom Module
-core=7.x
-version=0.1
-files[]=ajaxlogin.module
